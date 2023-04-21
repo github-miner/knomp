@@ -1,9 +1,9 @@
 {
 "enabled":true,
 "coin": "supernet.json",
-"address": "pool address",
+"address": "RAwy4GcaTsFswm8PJm1ZvfKztfUWZm8kt2",
 "zAddress": "",
-"tAddress": "pool address",
+"tAddress": "RAwy4GcaTsFswm8PJm1ZvfKztfUWZm8kt2",
 "walletInterval": 5,
 "rewardRecipients": {
         "feesAddress": 3.0
@@ -20,8 +20,8 @@
         "daemon": {
             "host": "127.0.0.1",
             "port": 35593,
-            "user": "rpcuser",
-            "password": "rpcpassword"
+            "user": "zeusyf",
+            "password": "zeusyfx"
         }
 },
 
@@ -53,8 +53,8 @@
 "daemons": [{
     "host": "127.0.0.1",
     "port": 35593,
-    "user": "rpcuser",
-    "password": "rpcpassword"
+    "user": "zeusyf",
+    "password": "zeusyfx"
 }],
 
 "p2p": {
