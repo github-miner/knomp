@@ -1,9 +1,9 @@
 {
 "enabled":true,
 "coin": "supernet.json",
-"address": "RAwy4GcaTsFswm8PJm1ZvfKztfUWZm8kt2",
+"address": "RB6g1MFpxuGJzrDiA7sHGEfp9jM5RbexzB",
 "zAddress": "",
-"tAddress": "RAwy4GcaTsFswm8PJm1ZvfKztfUWZm8kt2",
+"tAddress": "RB6g1MFpxuGJzrDiA7sHGEfp9jM5RbexzB",
 "walletInterval": 5,
 "rewardRecipients": {
         "feesAddress": 3.0
